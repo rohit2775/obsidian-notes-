@@ -169,10 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "98e8af55949287ae",
+  "active": "582386f5868e0cae",
   "lastOpenFiles": [
-    "nextjs/setup ../setup.md",
+    "typescript ./Untitled/data types in typescript/data types.md",
+    "typescript ./Untitled/data types in typescript/Untitled 1.md",
     "typescript ./Untitled/context/about.md",
+    "typescript ./Untitled/data types in typescript",
+    "Untitled 3",
+    "Untitled 1",
+    "Untitled",
+    "nextjs/setup ../setup.md",
     "typescript ./Untitled/context/about",
     "typescript ./Untitled/context",
     "typescript ./Untitled",
@@ -181,9 +187,6 @@
     "obsidian/get started with obsidian.md",
     "nextjs/setup ..",
     "Welcome.md",
-    "Untitled.md",
-    "Untitled 2",
-    "obsidian",
-    "nextjs"
+    "Untitled.md"
   ]
 }
