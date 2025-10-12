@@ -72,7 +72,8 @@ Used for functions that never return (e.g., throw errors or infinite loops).
 
 `function throwError(): never {   throw new Error("Something went wrong!"); }`
 
----
+
+
 
 ## 🔹 8. **Union Types**
 
