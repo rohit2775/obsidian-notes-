@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript ./Untitled/context/about.md",
+                "file": "typescript ./unknown facts/uk facts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "uk facts"
             }
           }
         ]
@@ -169,13 +169,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "582386f5868e0cae",
+  "active": "98e8af55949287ae",
   "lastOpenFiles": [
-    "typescript ./Untitled/data types in typescript/data types.md",
     "typescript ./Untitled/data types in typescript/Untitled 1.md",
+    "typescript ./unknown facts/uk facts.md",
+    "typescript ./unknown facts",
+    "Untitled 3",
+    "typescript ./Untitled/data types in typescript/data types.md",
     "typescript ./Untitled/context/about.md",
     "typescript ./Untitled/data types in typescript",
-    "Untitled 3",
     "Untitled 1",
     "Untitled",
     "nextjs/setup ../setup.md",
@@ -185,7 +187,6 @@
     "typescript .",
     "nextjs/Untitled",
     "obsidian/get started with obsidian.md",
-    "nextjs/setup ..",
     "Welcome.md",
     "Untitled.md"
   ]
