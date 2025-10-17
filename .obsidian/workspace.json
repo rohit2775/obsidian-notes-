@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript ./unknown facts/uk facts.md",
+                "file": "explored things/explored things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uk facts"
+              "title": "explored things"
             }
           }
         ]
@@ -169,17 +169,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "98e8af55949287ae",
+  "active": "582386f5868e0cae",
   "lastOpenFiles": [
-    "typescript ./Untitled/data types in typescript/Untitled 1.md",
     "typescript ./unknown facts/uk facts.md",
+    "explored things/explored things.md",
+    "typescript ./Untitled/data types in typescript/Untitled 1.md",
     "typescript ./unknown facts",
     "Untitled 3",
     "typescript ./Untitled/data types in typescript/data types.md",
     "typescript ./Untitled/context/about.md",
     "typescript ./Untitled/data types in typescript",
     "Untitled 1",
-    "Untitled",
+    "explored things",
     "nextjs/setup ../setup.md",
     "typescript ./Untitled/context/about",
     "typescript ./Untitled/context",
