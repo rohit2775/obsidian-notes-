@@ -30,3 +30,14 @@ console.log(`Name: ${person[0]}, Age: ${person[1]}, Student: ${person[2]}`);
 enum Direction {   Up,   Down,   Left,   Right }  
 let move: Direction = Direction.Left; 
 console.log(move); 
+
+### **6. Union Type**
+
+let id: number | string;
+id = 101;
+id = "A102";  
+console.log(`Your ID: ${id}`);
+
+
+
+
